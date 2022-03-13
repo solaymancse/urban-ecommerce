@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/urban-ecommerce/static/css/main.284dc3c1.css",
-    "main.js": "/urban-ecommerce/static/js/main.b16b91b1.js",
+    "main.js": "/urban-ecommerce/static/js/main.8010f281.js",
     "static/js/787.0f4ce56e.chunk.js": "/urban-ecommerce/static/js/787.0f4ce56e.chunk.js",
     "index.html": "/urban-ecommerce/index.html",
     "main.284dc3c1.css.map": "/urban-ecommerce/static/css/main.284dc3c1.css.map",
-    "main.b16b91b1.js.map": "/urban-ecommerce/static/js/main.b16b91b1.js.map",
+    "main.8010f281.js.map": "/urban-ecommerce/static/js/main.8010f281.js.map",
     "787.0f4ce56e.chunk.js.map": "/urban-ecommerce/static/js/787.0f4ce56e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.284dc3c1.css",
-    "static/js/main.b16b91b1.js"
+    "static/js/main.8010f281.js"
   ]
 }
